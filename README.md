@@ -1,6 +1,6 @@
 # dirmap_gui
 
-dirmap_gui 添加Gui界面，更加方便使用
+觉得dirmap挺不错的 添加Gui界面，更加方便使用
 
 支持拖拽目标文件，进行批量扫描，结果自动保存
 
