@@ -13,7 +13,7 @@ dirmap_gui 添加Gui界面，更加方便使用
 # 环境准备
 python3 -m pip install -r requirement.txt
 
-#默认字典文件
+# 默认字典文件
 字典文件存放在项目根目录中的data文件夹中
 
 1.dict_mode_dict.txt “字典模式”字典，使用dirsearch默认字典
@@ -23,7 +23,7 @@ python3 -m pip install -r requirement.txt
 5.dictmult 该目录为“字典模式”默认多字典文件夹，包含：BAK.min.txt(备份文件小字典)，BAK.txt(备份文件大字典)，LEAKS.txt(信息泄露文件字典)
 6.fuzzmult 该目录为“fuzz模式”默认多字典文件夹，包含：fuzz_mode_dir.txt(默认目录字典)，fuzz_mode_ext.txt(默认后缀字典)
 
-#高级使用
+# 高级使用
 
 自定义dirmap配置，开始探索dirmap高级功能
 
